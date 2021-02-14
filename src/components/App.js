@@ -16,6 +16,7 @@ function App() {
     
     <div className="App ">
     <div className='container mt-5 '>
+    <h1>Welcome to user Authentication with firebase</h1>
     <Router>
     <AuthProvider>
       <Switch>
